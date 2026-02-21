@@ -4,7 +4,6 @@ The data job market is evolving rapidly — but what roles are truly **in demand
 
 This project analyzes real-world job postings from 2023–2025 to uncover the answers.
 
-<br>
 
 # 📊 Project Overview
 
@@ -36,14 +35,9 @@ It covers postings from 2023 to 2025 and includes details such as:
 - Company information
 - Required skills
 
-<br>
-
 # ER Diagram
 
 ![ER Diagram](/assets/ERD.png)
-
-
-<br>
 
 # Summary of Key Findings : The Data Job Market
 
